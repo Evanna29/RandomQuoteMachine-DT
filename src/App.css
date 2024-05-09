@@ -1,0 +1,128 @@
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:#00a3a1
+  
+}
+#new-quote{
+  background-color:#F08080;
+}
+#buttons{
+  display:flex;
+  justify-content:flex-end;
+  margin:50px
+}
+
+#quote-box{
+  background-color:#8a6981;
+  margin:30px 30px 30px 30px;
+  width:550px;
+  height:290px;
+}
+
+#author{
+ width: 450px;
+margin:20px;
+padding-top: 10px;
+font-size: 1em;
+text-align: right
+}
+#text {
+  padding:40px
+}
+
+
+
+
+
+
+
+/* * {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  vertical-align: baseline;
+}
+
+div {
+  position: relative;
+  z-index: 2;
+}
+
+body{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:#00a3a1
+  
+}
+
+#quote-box{
+  background-color:#8a6981;
+  margin:30px 30px 30px 30px;
+  width:550px;
+  height:290px;
+}
+
+
+#new-quote{
+  outline:none;
+  background-color:#F08080;
+}
+
+#author{
+ width: 450px;
+margin:20px;
+padding-top: 10px;
+font-size: 1em;
+text-align: right
+}
+#text {
+  padding:40px
+} */
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
